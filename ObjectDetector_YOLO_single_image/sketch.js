@@ -4,7 +4,8 @@ let objects = [];
 let status;
 
 function preload() {
-  img = loadImage("images/cat2.JPG");
+  //img = loadImage("images/cat2.JPG");
+  img = loadImage("images/IMGP0244.jpg");
 }
 
 function setup() {
