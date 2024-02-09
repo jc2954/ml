@@ -9,7 +9,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(640, 420);
+  createCanvas(windowWidth, windowHeight);
   image(img, 0, 0);
   objectDetector = ml5.objectDetector("yolo", modelReady);
 }
