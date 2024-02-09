@@ -37,7 +37,7 @@ function gotResult(err, results) {
     const x = objects[i].normalized.x * width;
     const y = objects[i].normalized.y * width;
     const objectWidth = objects[i].normalized.width * width;
-    const objectHeight = objects[i].normalized.height * height;
+    const objectHeight = objects[i].normalized.height;
     text(
       `${objects[i].label} ${nfc(objects[i].confidence * 100.0, 2)}%`,
       x + 5,
