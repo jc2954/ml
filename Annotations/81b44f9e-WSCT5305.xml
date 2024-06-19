@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+<folder>images</folder>
+<filename>81b44f9e-WSCT5305.jpg</filename>
+<source>
+<database>MyDatabase</database>
+<annotation>COCO2017</annotation>
+<image>flickr</image>
+<flickrid>NULL</flickrid>
+<annotator>1</annotator>
+</source>
+<owner>
+<flickrid>NULL</flickrid>
+<name>Label Studio</name>
+</owner>
+<size>
+<width>640</width>
+<height>360</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>silver SUV</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>9</xmin>
+<ymin>276</ymin>
+<xmax>164</xmax>
+<ymax>359</ymax>
+</bndbox>
+</object>
+<object>
+<name>school bus</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>156</xmin>
+<ymin>210</ymin>
+<xmax>292</xmax>
+<ymax>315</ymax>
+</bndbox>
+</object>
+<object>
+<name>black car</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>329</xmin>
+<ymin>201</ymin>
+<xmax>391</xmax>
+<ymax>244</ymax>
+</bndbox>
+</object>
+<object>
+<name>black car</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>405</xmin>
+<ymin>178</ymin>
+<xmax>456</xmax>
+<ymax>209</ymax>
+</bndbox>
+</object>
+<object>
+<name>silver SUV</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>442</xmin>
+<ymin>162</ymin>
+<xmax>485</xmax>
+<ymax>197</ymax>
+</bndbox>
+</object>
+<object>
+<name>blue SUV</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>463</xmin>
+<ymin>153</ymin>
+<xmax>502</xmax>
+<ymax>184</ymax>
+</bndbox>
+</object>
+</annotation>

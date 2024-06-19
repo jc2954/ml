@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+<folder>images</folder>
+<filename>b857ab2b-WSCT5134.jpg</filename>
+<source>
+<database>MyDatabase</database>
+<annotation>COCO2017</annotation>
+<image>flickr</image>
+<flickrid>NULL</flickrid>
+<annotator>1</annotator>
+</source>
+<owner>
+<flickrid>NULL</flickrid>
+<name>Label Studio</name>
+</owner>
+<size>
+<width>640</width>
+<height>360</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>light blue sedan</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>312</xmin>
+<ymin>206</ymin>
+<xmax>382</xmax>
+<ymax>250</ymax>
+</bndbox>
+</object>
+<object>
+<name>beige car</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>406</xmin>
+<ymin>179</ymin>
+<xmax>454</xmax>
+<ymax>210</ymax>
+</bndbox>
+</object>
+<object>
+<name>blue SUV</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>454</xmin>
+<ymin>156</ymin>
+<xmax>499</xmax>
+<ymax>189</ymax>
+</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+<folder>images</folder>
+<filename>085faa39-WSCT5088.jpg</filename>
+<source>
+<database>MyDatabase</database>
+<annotation>COCO2017</annotation>
+<image>flickr</image>
+<flickrid>NULL</flickrid>
+<annotator>1</annotator>
+</source>
+<owner>
+<flickrid>NULL</flickrid>
+<name>Label Studio</name>
+</owner>
+<size>
+<width>640</width>
+<height>360</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>silver SUV</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>9</xmin>
+<ymin>279</ymin>
+<xmax>164</xmax>
+<ymax>359</ymax>
+</bndbox>
+</object>
+<object>
+<name>silver SUV</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>147</xmin>
+<ymin>249</ymin>
+<xmax>253</xmax>
+<ymax>319</ymax>
+</bndbox>
+</object>
+<object>
+<name>red minivan</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>240</xmin>
+<ymin>221</ymin>
+<xmax>330</xmax>
+<ymax>283</ymax>
+</bndbox>
+</object>
+<object>
+<name>beige car</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>406</xmin>
+<ymin>181</ymin>
+<xmax>456</xmax>
+<ymax>213</ymax>
+</bndbox>
+</object>
+<object>
+<name>blue SUV</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>455</xmin>
+<ymin>158</ymin>
+<xmax>498</xmax>
+<ymax>195</ymax>
+</bndbox>
+</object>
+</annotation>
